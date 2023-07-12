@@ -2,10 +2,10 @@
 # Docker Projects
 
 
-[1. To run redis server in docker container](##1.redis)
+[1. To run redis server in docker container](#redis)
 
-[2. To run simpleweb application in docker container](##2.simpleweb)
-## 1.redis
+[2. To run simpleweb application in docker container](#simpleweb)
+# redis
 
 To run redis server in docker container run following commands after cloning this repository.
 
@@ -28,7 +28,7 @@ docker run -it dixitpatel1008/redis
 ```cmd
 docker run -p 8080:8080 dixitpatel1008/redis
 ```
-## 2.simpleweb
+# simpleweb
 
 To run simpleweb application in docker container run following commands after cloning this repository.
 
