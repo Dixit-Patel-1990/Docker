@@ -9,7 +9,7 @@
 
 #### Change directory
 ```cmd
-CD redis
+cd redis
 ```
 
 #### Build image out of docker file
@@ -30,7 +30,7 @@ docker run -p 8080:8080 dixitpatel1008/redis
 
 #### Change directory
 ```cmd
-CD redis
+cd redis
 ```
 #### Build image out of docker file
 ```cmd
